@@ -10,4 +10,5 @@ To run this application:
 
   3. ruby main.rb
 
-  4. Open browser to port http://localhost:4567
+  4. Open browser to http://localhost:4567
+
