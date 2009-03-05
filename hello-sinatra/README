@@ -1,0 +1,13 @@
+A Hello World application demonstrating Cappuccino and Sinatra
+
+To run this application:
+
+  1. Install sinatrarb
+     sudo gem install sinatra
+
+  2. Ensure that the `public` directory contains a reference to `Frameworks`
+     (Either with a symlink or real copy)
+
+  3. ruby main.rb
+
+  4. Open browser to port http://localhost:4567
